@@ -1,6 +1,6 @@
-package java.Note.BasicsofJava.FirstProgramInJava;
+package JavaNote.BasicsofJava.FirstProgramInJava;
 
-public class HelloWorld{ 
+public class HelloWorld {
 
     public static void main(String args[]){
 

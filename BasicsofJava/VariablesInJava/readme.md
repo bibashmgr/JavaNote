@@ -22,6 +22,8 @@ A variable defined within a block or method or constructor is called *local vari
 > ### Instance Variables:
 A variable defines within a class outside any method, constructor or block is called instance variable.Instance variables are created when an object of the class is created and destroyed when the object is destroyed.
 
+Instance variable doesn't get memory at compile time. It gets memory at runtime when an object or instance is created. That is why it is known as an instance variable.
+
 
 
 > ### Static Variables:
